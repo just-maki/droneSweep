@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# virtualenvs inside repo
+*.egg-info
+dist/
+build/
+
+# Data, models, logs (do not commit large files)
+data/
+logs/
+models/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
