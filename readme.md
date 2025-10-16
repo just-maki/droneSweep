@@ -1,5 +1,5 @@
 ---
-title: droneSweep — Polygon Coverage Path Planning
+droneSweep — Polygon Coverage Path Planning
 ---
 
 <!-- Badges -->
