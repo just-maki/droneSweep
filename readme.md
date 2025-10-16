@@ -136,12 +136,4 @@ License
 
 - MIT — see `LICENSE`.
 
-Extras
-
-If you want, I can also:
-
-- generate a minimal `requirements.txt` from `Untitled.txt`;
-- add real badge links (CI, PyPI) and inline example usage;
-- create the `assets/architecture.png` placeholder image or a simple diagram.
-
 Happy training!
