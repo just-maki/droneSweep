@@ -48,7 +48,7 @@ Requirements
 
 - Python 3.8+
 - Recommended: GPU with CUDA (for faster training) or Apple Silicon (MPS)
-- Dependencies are listed in `Untitled.txt` (use it as a base for `requirements.txt`)
+- Dependencies are listed in `requirements.txt`
 
 Install
 
